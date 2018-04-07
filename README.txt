@@ -20,6 +20,9 @@ Built With
 - Photoshop CS
 - Notepad ++
 
+Contributing
+Create and push the changes to your own branch naming it "Branch_Con N" (where N is nth contribution branch of yours) then request for pull.
+
 Author
 Bhaskar Mondal 
 
