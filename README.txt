@@ -1,5 +1,5 @@
 Project Title
-This is a live site on travel & tourism of the state of Meghalaya. Though any changes made by pull and push here wont be reflected in the live website as domain forwarding does not track back to this git hub respository. But feel free to let me know about the changes you wish to see by posting a comment, i would surely love to look at your work. 
+This is a live site on travel  & tourism of the state of Meghalaya. Though any changes made by pull and push here wont be reflected in the live website as domain forwarding does not track back to this git hub respository. But feel free to let me know about the changes you wish to see by posting a comment, i would surely love to look at your work. 
 
 Getting Started
 Feel free to clone this repository and issue pull requests for your changes made.
